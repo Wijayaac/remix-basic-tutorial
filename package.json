@@ -31,10 +31,13 @@
     "@remix-run/react": "^2.0.0",
     "@remix-run/serve": "^2.0.0",
     "bcryptjs": "^2.4.3",
+    "blog-tutorial-444d": "file:",
     "isbot": "^3.6.13",
     "marked": "^9.0.2",
+    "match-sorter": "^6.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "sort-by": "^1.2.0",
     "tiny-invariant": "^1.3.1"
   },
   "devDependencies": {
